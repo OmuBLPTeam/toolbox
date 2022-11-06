@@ -1,0 +1,4 @@
+[submodule "modules/proje1"]
+	path = modules/proje1
+	url = https://github.com/omublpteam/toolbox
+	branch = proje1
